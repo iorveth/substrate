@@ -22,7 +22,7 @@ sp-core = { version = "3.0.0", default-features = false, path = "../../../primit
 sp-std = { version = "3.0.0", default-features = false, path = "../../../primitives/std" }
 trybuild = "1.0.42"
 pretty_assertions = "0.6.1"
-rustversion = "1.0.0"
+rustversion = "1.0.5"
 frame-metadata = { version = "13.0.0", default-features = false, path = "../../metadata" }
 frame-system = { version = "3.0.0", default-features = false, path = "../../system" }
 
